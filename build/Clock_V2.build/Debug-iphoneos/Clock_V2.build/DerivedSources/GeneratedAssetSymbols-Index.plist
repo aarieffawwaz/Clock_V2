@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/Clock_V2/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameHappy</string>
+			<key>relativePath</key>
+			<string>./Happy.imageset</string>
+			<key>swiftSymbol</key>
+			<string>happy</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/Clock_V2/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameMid</string>
+			<key>relativePath</key>
+			<string>./Mid.imageset</string>
+			<key>swiftSymbol</key>
+			<string>mid</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/Clock_V2/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameSad</string>
+			<key>relativePath</key>
+			<string>./Sad.imageset</string>
+			<key>swiftSymbol</key>
+			<string>sad</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

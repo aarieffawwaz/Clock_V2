@@ -1,0 +1,119 @@
+{
+  "" : {
+    "diagnostics" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Clock_V2-primary.dia",
+    "emit-module-dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Clock_V2-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Clock_V2-primary-emit-module.dia",
+    "pch" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Clock_V2-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Clock_V2-primary.swiftdeps"
+  },
+  "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/Clock_V2/City.swift" : {
+    "const-values" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/City.swiftconstvalues",
+    "dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/City.d",
+    "diagnostics" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/City.dia",
+    "index-unit-output-path" : "/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/City.o",
+    "llvm-bc" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/City.bc",
+    "object" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/City.o",
+    "swift-dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/City.swiftdeps",
+    "swiftmodule" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/City~partial.swiftmodule"
+  },
+  "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/Clock_V2/Clock_V2App.swift" : {
+    "const-values" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Clock_V2App.swiftconstvalues",
+    "dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Clock_V2App.d",
+    "diagnostics" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Clock_V2App.dia",
+    "index-unit-output-path" : "/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Clock_V2App.o",
+    "llvm-bc" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Clock_V2App.bc",
+    "object" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Clock_V2App.o",
+    "swift-dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Clock_V2App.swiftdeps",
+    "swiftmodule" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Clock_V2App~partial.swiftmodule"
+  },
+  "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/Clock_V2/ContentView.swift" : {
+    "const-values" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/Clock_V2/Item.swift" : {
+    "const-values" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Item.dia",
+    "index-unit-output-path" : "/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Item.swiftdeps",
+    "swiftmodule" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/Item~partial.swiftmodule"
+  },
+  "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/Clock_V2/Utilities/CityDatabase.swift" : {
+    "const-values" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityDatabase.swiftconstvalues",
+    "dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityDatabase.d",
+    "diagnostics" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityDatabase.dia",
+    "index-unit-output-path" : "/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityDatabase.o",
+    "llvm-bc" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityDatabase.bc",
+    "object" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityDatabase.o",
+    "swift-dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityDatabase.swiftdeps",
+    "swiftmodule" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityDatabase~partial.swiftmodule"
+  },
+  "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/Clock_V2/Utilities/ShareFormatter.swift" : {
+    "const-values" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ShareFormatter.swiftconstvalues",
+    "dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ShareFormatter.d",
+    "diagnostics" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ShareFormatter.dia",
+    "index-unit-output-path" : "/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ShareFormatter.o",
+    "llvm-bc" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ShareFormatter.bc",
+    "object" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ShareFormatter.o",
+    "swift-dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ShareFormatter.swiftdeps",
+    "swiftmodule" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/ShareFormatter~partial.swiftmodule"
+  },
+  "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/Clock_V2/Utilities/TimezoneHelper.swift" : {
+    "const-values" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimezoneHelper.swiftconstvalues",
+    "dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimezoneHelper.d",
+    "diagnostics" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimezoneHelper.dia",
+    "index-unit-output-path" : "/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimezoneHelper.o",
+    "llvm-bc" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimezoneHelper.bc",
+    "object" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimezoneHelper.o",
+    "swift-dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimezoneHelper.swiftdeps",
+    "swiftmodule" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimezoneHelper~partial.swiftmodule"
+  },
+  "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/Clock_V2/Views/AddCitySheet.swift" : {
+    "const-values" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/AddCitySheet.swiftconstvalues",
+    "dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/AddCitySheet.d",
+    "diagnostics" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/AddCitySheet.dia",
+    "index-unit-output-path" : "/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/AddCitySheet.o",
+    "llvm-bc" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/AddCitySheet.bc",
+    "object" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/AddCitySheet.o",
+    "swift-dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/AddCitySheet.swiftdeps",
+    "swiftmodule" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/AddCitySheet~partial.swiftmodule"
+  },
+  "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/Clock_V2/Views/CityCard.swift" : {
+    "const-values" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityCard.swiftconstvalues",
+    "dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityCard.d",
+    "diagnostics" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityCard.dia",
+    "index-unit-output-path" : "/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityCard.o",
+    "llvm-bc" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityCard.bc",
+    "object" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityCard.o",
+    "swift-dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityCard.swiftdeps",
+    "swiftmodule" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/CityCard~partial.swiftmodule"
+  },
+  "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/Clock_V2/Views/TimeSlider.swift" : {
+    "const-values" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimeSlider.swiftconstvalues",
+    "dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimeSlider.d",
+    "diagnostics" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimeSlider.dia",
+    "index-unit-output-path" : "/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimeSlider.o",
+    "llvm-bc" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimeSlider.bc",
+    "object" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimeSlider.o",
+    "swift-dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimeSlider.swiftdeps",
+    "swiftmodule" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/TimeSlider~partial.swiftmodule"
+  },
+  "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Clock_V2.build/Debug-iphoneos/Clock_V2.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

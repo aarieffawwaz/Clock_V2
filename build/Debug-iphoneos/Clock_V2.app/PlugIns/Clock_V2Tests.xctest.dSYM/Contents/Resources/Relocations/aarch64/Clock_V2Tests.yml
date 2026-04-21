@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/build/Debug-iphoneos/Clock_V2.app/PlugIns/Clock_V2Tests.xctest/Clock_V2Tests'
+relocations:     []
+...

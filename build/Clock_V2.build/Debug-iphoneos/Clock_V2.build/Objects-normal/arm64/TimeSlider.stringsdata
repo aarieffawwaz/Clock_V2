@@ -1,0 +1,48 @@
+{
+  "source": "/Users/aarief/Documents/Apple Developer/CH-02/Clock_V2/Clock_V2/Views/TimeSlider.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "00:00",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "12:00",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "23:59",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Current: %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "Adjusted: %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 106
+        }
+      }
+    ]
+  },
+  "version": 1
+}

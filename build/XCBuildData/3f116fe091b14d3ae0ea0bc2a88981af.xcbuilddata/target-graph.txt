@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'Clock_V2Tests' in project 'Clock_V2'
+➜ Explicit dependency on target 'Clock_V2' in project 'Clock_V2'
+Target 'Clock_V2' in project 'Clock_V2' (no dependencies)
